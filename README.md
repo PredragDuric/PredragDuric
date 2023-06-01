@@ -6,9 +6,9 @@
 
 🌱 Alongside Python, Django, Flask, HTML, and CSS, I am also delving into Machine Learning and Data Analytics, honing my skills in extracting insights from data.
 
-💻 Want to see what I've been working on? Check out my Codecademy profile: codecademy.com/profiles/predragduric
+💻 Want to see what I've been working on? Check out my Codecademy profile: codecademy.com/profiles/predragduric 
 
-📫 Connect with me on LinkedIn: linkedin.com/in/predrag-duric
+📫 Connect with me on [LinkedIn](linkedin.com/in/predrag-duric)
 
 :face_in_clouds: Let's collaborate and create amazing projects together!
 <!---
