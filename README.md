@@ -8,7 +8,7 @@
 
 💻 Want to see what I've been working on? Check out my Codecademy profile: codecademy.com/profiles/predragduric 
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/predrag-duric-38763a243)
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/predrag-duric)
 
 :face_in_clouds: Let's collaborate and create amazing projects together!
 <!---
